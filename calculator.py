@@ -6,6 +6,9 @@ def addition():
 def subtraction():
     print('added substraction program')
 
+def multiplication():
+    print('added multiplication program')
 
 addition()
 subtraction()
+multiplication()
