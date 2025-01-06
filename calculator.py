@@ -9,6 +9,10 @@ def subtraction():
 def multiplication():
     print('added multiplication program')
 
+def devision():
+    print('added devision program')
+
 addition()
 subtraction()
 multiplication()
+devision()
